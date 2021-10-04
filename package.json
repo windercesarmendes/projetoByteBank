@@ -1,0 +1,11 @@
+{
+  "name": "projetoByteBank",
+  "version": "1.0.0",
+  "description": "Projeto demo bytebank",
+  "main": "index.cjs",
+  "author": "Winder.mendes",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
